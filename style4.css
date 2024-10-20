@@ -1,0 +1,10 @@
+
+/* descendant selector */
+
+.post a{
+    background-color:black;
+    color:white ;
+}
+nav ul li a{
+    color: #b92b27;
+}
